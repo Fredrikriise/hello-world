@@ -1,2 +1,4 @@
 # hello-world
-Start
+
+Hi, my name is Fredrik.
+I am 19 years old.
